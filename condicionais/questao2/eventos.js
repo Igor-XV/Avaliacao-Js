@@ -1,6 +1,6 @@
 let nome = "igor";
-let EstadoCivil = "casado";
-let Sexo = "F";
+let EstadoCivil = "Noivo";
+let Sexo = "meioHomemMeioXeroVerde";
 
 if ( Sexo === "F" && EstadoCivil === "casado") {
        
@@ -9,4 +9,4 @@ if ( Sexo === "F" && EstadoCivil === "casado") {
 } else {
     
     prompt('bora Tc ?')
-}
+} 
