@@ -8,4 +8,4 @@ if(sexo === 'M'){
 if(sexo === 'F'){
     pesoIdeal = (62.1 * altura) -44.7;
 };
-document.write('pesoideal:' ,pesoIdeal);
+document.write('pesoideal:', pesoIdeal);

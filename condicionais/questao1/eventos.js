@@ -10,4 +10,3 @@ if ( a + b < c) {
     document.write("A soma de a + b e maior que C: ", c)
 }
 
-//resolvido 
